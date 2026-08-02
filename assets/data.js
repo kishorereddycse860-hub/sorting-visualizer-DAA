@@ -6,8 +6,9 @@
 const PROJECT_INFO = {
   title: "Sorting Algorithm Visualizer",
   problemStatement: "Design and implement a web-based application that visualizes the working of classical sorting algorithms through step-by-step, interactive animation — enabling clearer understanding of comparison and swap behaviour, and making abstract time-complexity differences visually observable.",
-  studentName: "Kishore Reddy Gayam",
-  facultyName: "[Faculty Name — edit this]",
+  studentName: "Kishore Reddy Gayam(8741)",
+  studentName: "Pamba Nixan Raj(8718)",
+  facultyName: "[Prof.Paritosh Biswas]",
   subject: "Design and Analysis of Algorithms (DAA)",
   institution: "Marwadi University, Dept. of CSE (AI/ML)",
 };
@@ -19,8 +20,7 @@ const ALGO_DATA = {
     name: "Bubble Sort",
     slug: "bubble",
     tagline: "Repeatedly swaps adjacent out-of-order elements until nothing is left to swap.",
-    description: "Bubble Sort walks through the array again and again, comparing each pair of neighbouring elements and swapping them if they're in the wrong order. With every full pass, the largest remaining element \"bubbles up\" to its correct position at the end of the array — hence the name.",
-    howItWorks: [
+    description: "Bubble Sort is a simple comparison-based sorting algorithm that repeatedly compares two adjacent elements and swaps them if they are in the wrong order. This process continues until the entire array is sorted.",    howItWorks: [
       "Start at the beginning of the array and compare the first two elements.",
       "If the left element is bigger than the right one, swap them.",
       "Move one step forward and repeat the comparison for the next pair.",
