@@ -6,7 +6,7 @@
 const PROJECT_INFO = {
   title: "Sorting Algorithm Visualizer",
   problemStatement: "Design and implement a web-based application that visualizes the working of classical sorting algorithms through step-by-step, interactive animation — enabling clearer understanding of comparison and swap behaviour, and making abstract time-complexity differences visually observable.",
-  studentName: "Kishore Reddy Gayam(8741)/n Pamba Nixan Raj(8718)",
+  studentName: "Kishore Reddy Gayam(8741)   Pamba Nixan Raj(8718)",
   facultyName: "[Prof.Paritosh Biswas]",
   subject: "Design and Analysis of Algorithms (DAA)",
   institution: "Marwadi University, Dept. of CSE (AI/ML)",
